@@ -1,0 +1,872 @@
+{
+    "W": {
+        "Sumatera": {
+            "11": {
+                "name": {
+                    "main": "Nanggroe Aceh Darussalam",
+                    "alt": ["Aceh"],
+                    "spc": "Daerah Istimewa"
+                },
+                "argo": {
+                    "isle": [
+                        "Babi", "Bangkaru", "Benggalang", "Gajah", "Kayee", "Lasia",
+                        "Nasi", "Panyang", "Pasi", "Penasi", "Peunasue", "Raya", "Reusam",
+                        "Rondo", "Rusa", "Salaut Besar", "Sembilan", "Seumut", "Simeuleu",
+                        "Simeuleu Ceut", "Tapah", "Trumon", "Tuangku", "Tulo", "Weh"
+                    ]
+                },
+                "sub": {
+                    "regenc": [
+                        {"name": "Aceh Selatan", "sub": {}},
+                        {"name": "Aceh Tenggara", "sub": {}},
+                        {"name": "Aceh Timur", "sub": {}},
+                        {"name": "Aceh Tengah", "sub": {}},
+                        {"name": "Aceh Barat", "sub": {}},
+                        {"name": "Aceh Besar", "sub": {}},
+                        {"name": "Pidie", "sub": {}},
+                        {"name": "Aceh Utara", "sub": {}},
+                        {"name": "Simeulue", "sub": {}},
+                        {"name": "Aceh Singkil", "sub": {}},
+                        {"name": "Bireuen", "sub": {}},
+                        {"name": "Aceh Barat Daya", "sub": {}},
+                        {"name": "Gayo Lues", "sub": {}},
+                        {"name": "Aceh Jaya", "sub": {}},
+                        {"name": "Nagan Raya", "sub": {}},
+                        {"name": "Aceh Tamiang", "sub": {}},
+                        {"name": "Bener Meriah", "sub": {}},
+                        {"name": "Pidie Jaya", "sub": {}}
+                    ],
+                    "ct": [
+                        {"name": "Banda Aceh", "sub": {}},
+                        {"name": "Sabang", "sub": {}},
+                        {"name": "Lhokseumawe", "sub": {}},
+                        {"name": "Langsa", "sub": {}},
+                        {"name": "Subulussalam", "sub": {}}
+                    ]
+                },
+                "cap": 71
+            },
+            "12": {
+                "name": {
+                    "main": "Sumatera Utara",
+                    "alt": ["SumUt"]
+                },
+                "argo": {
+                    "isle": [
+                        "Berhala", "Bojo", "Musala", "Nias", "Pandang", "Pangururan", "Pini",
+                        "Salahnama", "Samosir", "Situngkus", "Tanabala", "Tanahmasa", "Telo"
+                    ],
+                    "isles": ["Hinako"]
+                },
+                "sub": {
+                    "regenc": [
+                        {"name": "Tapanuli Tengah", "sub": {}},
+                        {"name": "Tapanuli Utara", "sub": {}},
+                        {"name": "Tapanuli Selatan", "sub": {}},
+                        {"name": "Nias", "sub": {}},
+                        {"name": "Langkat", "sub": {}},
+                        {"name": "Karo", "sub": {}},
+                        {"name": "Deli Serdang", "sub": {}},
+                        {"name": "Simalungun", "sub": {}},
+                        {"name": "Asahan", "sub": {}},
+                        {"name": "Labuhanbatu", "sub": {}},
+                        {"name": "Dairi", "sub": {}},
+                        {"name": "Toba Samosir", "sub": {}},
+                        {"name": "Mandailing Natal", "sub": {}},
+                        {"name": "Nias Selatan", "sub": {}},
+                        {"name": "Pakpak Bharat", "sub": {}},
+                        {"name": "Humbang Hasundutan", "sub": {}},
+                        {"name": "Samosir", "sub": {}},
+                        {"name": "Serdang Bedagai", "sub": {}},
+                        {"name": "Batu Bara", "sub": {}},
+                        {"name": "Padang Lawas Utara", "sub": {}},
+                        {"name": "Padang Lawas", "sub": {}},
+                        {"name": "Labuhanbatu Selatan", "sub": {}},
+                        {"name": "Labuhanbatu Utara", "sub": {}},
+                        {"name": "Nias Utara", "sub": {}},
+                        {"name": "Nias Barat", "sub": {}}
+                    ],
+                    "ct": [
+                        {"name": "Medan", "sub": {}},
+                        {"name": "Pematangsiantar/Pematang Bandar", "sub": {}},
+                        {"name": "Sibolga", "sub": {}},
+                        {"name": "Tanjung Balai", "sub": {}},
+                        {"name": "Binjai", "sub": {}},
+                        {"name": "Tebing Tinggi", "sub": {}},
+                        {"name": "Padang Sidempuan", "sub": {}},
+                        {"name": "Gunungsitoli", "sub": {}}
+                    ]
+                },
+                "cap": 78
+            },
+            "13": {
+                "name": {
+                    "main": "Sumatera Barat",
+                    "alt": ["SumBar"]
+                },
+                "argo": {
+                    "isle": [
+                        "Angso Duo", "Karangmanjat", "Masokut", "Pagai Selatan", "Pagai Utara",
+                        "Pandan", "Pisang Ketek", "Sanding", "Siberut", "Siduamata", "Tinopo"
+                    ]
+                },
+                "sub": {}
+            },
+            "14": {
+                "name": {
+                    "main": "Riau"
+                },
+                "argo": {
+                    "isle": [
+                        "Basu", "Batu Mandi", "Bengkalis", "Burung", "Halang Besar", "Jemur", "Kijang",
+                        "Kundur", "Mas", "Mendol", "Merbau", "Nyiur", "Padang", "Panjang", "Penjalai",
+                        "Rangsang", "Rupat", "Semakau", "Sinaboi", "Tebing Tinggi", "Tiga", "Topang"
+                    ]
+                },
+                "sub": {}
+            },
+            "15": {
+                "name": {
+                    "main": "Jambi"
+                },
+                "sub": {}
+            },
+            "16": {
+                "name": {
+                    "main": "Sumatera Selatan",
+                    "alt": ["SumSel"]
+                },
+                "argo": {
+                    "isle": ["Kemaro", "Maspari"]
+                },
+                "sub": {}
+            },
+            "17": {
+                "name": {
+                    "main": "Bengkulu"
+                },
+                "argo": {
+                    "isle": [
+                        "Arifin", "Bangkai", "Dua", "Dua Satu", "Enggano", "Mega",
+                        "Merbau Bengkulu", "Satu", "Tapak Bali", "Tikus Bengkulu"
+                    ]
+                },
+                "sub": {}
+            },
+            "18": {
+                "name": {
+                    "main": "Lampung"
+                },
+                "argo": {
+                    "isle": [
+                        "Anak Krakatau", "Batu Kauseng", "Batu Kecil", "Batu Legundi",
+                        "Batu Legundi Balak", "Batu Mandi Bakauheni", "Batu Merah", "Batukerbau",
+                        "Batumandi", "Kelagian", "Kiluan", "Legundi", "Panjang", "Pasaran",
+                        "Rakata", "Rakata Kecil", "Sebesi", "Sebuku", "Sertung", "Tabuan"
+                    ]
+                },
+                "sub": {}
+            },
+            "19": {
+                "name": {
+                    "main": "Kepulauan Bangka Belitung",
+                    "alt": ["Kep. Bangka Belitung", "Bangka Belitung"]
+                },
+                "argo": {
+                    "isle": [
+                        "Aur", "Babi", "Bakau", "Bangka", "Belitung", "Buku Limau",
+                        "Gersik", "Gusung Asam", "Kalangbau", "Kelemar", "Ketawai",
+                        "Kuil", "Lapar", "Lengkuas", "Memperak", "Mendanau", "Nado",
+                        "Nangka", "Nasik", "Panjang", "Pongok", "Semujur", "Tujuh"
+                    ]
+                },
+                "sub": {}
+            },
+            "21": {
+                "name": {
+                    "main": "Kepulauan Riau",
+                    "alt": ["Kep. Riau"]
+                },
+                "argo": {
+                    "isle": [
+                        "Abang", "Abang Besar", "Bakong/Bakung", "Basing", "Batam", "Batang", "Bawah",
+                        "Bayan", "Belakang Padang", "Belat", "Benuwa/Benua", "Berakit/Batu Berhanti",
+                        "Bintan", "Buaya", "Bugi", "Bulan", "Bunguran", "Buru", "Combol", "Damar",
+                        "Dedap", "Dendun", "Dompak", "Galang", "Gin Besar", "Gin Kecil", "Iyu Kecil",
+                        "Jemaja", "Karimun", "Karimun Kecil/Anak Karimun", "Kelapa Jernih", "Kepala",
+                        "Kundur", "Lagong", "Lalang", "Laut", "Lingga", "Los", "Mangkai", "Mapor",
+                        "Matak", "Mendarik", "Mengkait", "Mesawak", "Midai", "Mubur", "Mubut", "Murih",
+                        "Nanas", "Nguan", "Nipa/Nipah", "Nongsa", "Numbing", "Paku", "Panjang", "Papan",
+                        "Parit", "Pejantan", "Pelampong", "Pemping", "Pengalap", "Pengibu", "Pengujan",
+                        "Penuba", "Penyabung", "Penyengat", "Petong", "Pinang Seribu", "Posik",
+                        "Propos", "Raiba", "Rempang", "Sambu", "Sebangka", "Sebetul", "Sekatung",
+                        "Semakau", "Semiun", "Sentut", "Senua", "Sepintu", "Serak", "Serasa", "Siantat",
+                        "Singkep", "Sore", "Subi", "Subi Besar", "Subi Kecil", "Tambelan Besar",
+                        "Tarempa/Tarempah", "Terkulai", "Timau", "Tokong Belayar", "Tokong Iyu",
+                        "Tokong Malang Biru", "Tokong Nanas", "Tokong Piramida", "Tokongboro", "Uwi"
+                    ],
+                    "isles": [
+                        "Anambas", "Badas", "Karimun", "Lingga", "Natuna",
+                        "Natuna Besar", "Natuna Selatan", "Riau", "Tambelan"
+                    ]
+                },
+                "sub": {}
+            }
+        },
+        "Jawa": {
+            "31": {
+                "name": {
+                    "main": "Jakarta",
+                    "spc": "Daerah Khusus Ibukota"
+                },
+                "argo": {
+                    "isle": [
+                        "Air", "Ayer Besar", "Belanda", "Biawak", "Bidadari", "Bira", "Bira Kecil",
+                        "Bokor", "Bulat", "Bundar", "Burung", "Cina", "Cipir", "Damar Besar",
+                        "Damar Kecil", "Dua Barat", "Dua Timur", "Genteng Besar", "Genteng Kecil",
+                        "Godustinggi", "Gosongpabelokan", "Gosongpandan", "Gosongpramuka",
+                        "Gosongrengat", "Harapan", "Jagung", "Jukung", "Kaliage Besar",
+                        "Kaliage Kecil", "Kapas", "Karangberas", "Karangberas Kecil", "Karangbongkok",
+                        "Karangcongkak", "Karangkudus", "Karangkudus Barat", "Karya", "Kayu Angin Bira",
+                        "Kayuangin Genteng", "Kayuangin Melintang", "Kayuangin Putri", "Kelapa",
+                        "Kelapadua", "Kelor", "Kelor Barat", "Kelor Timur", "Kongsi", "Kotok Besar",
+                        "Kotok Kecil", "Kuburancina", "Kuduslempeng", "Laga", "Laki", "Lancang Besar",
+                        "Lancang Kecil", "Lipan", "Macan Kecil", "Matahari", "Matahari", "Melinjo",
+                        "Melintang Besar", "Melintang Kecil", "Nyamplung", "Nyamuk Kecil", "Onrust",
+                        "Opak Besar", "Opak Kecil", "Pabelokan", "Panggang", "Panjang Atas",
+                        "Panjang Besar", "Panjang Kecil", "Pantara Barat", "Pantara Timur", "Pari",
+                        "Payung Besar", "Payung Kecil", "Pelangi", "Pemagaran", "Peniki",
+                        "Penjaliran Barat", "Penjaliran Timur", "Perak", "Peteloran Barat",
+                        "Peteloran Timur", "Pondokdayung", "Pramuka", "Putri", "Putri Barat",
+                        "Putrigundul", "Rambut", "Rengit", "Saktu", "Sebaru Besar", "Sebaru Kecil",
+                        "Sekati", "Semakdaun", "Semut Atas", "Semut Bawah", "Semut Kecil",
+                        "Sepa Barat","Sepa Timur", "Tengah", "Tidung Besar", "Tidung Kecil", "Tikus",
+                        "Tondan Timur", "Tongkeng", "Untungjawa", "Yu Besar", "Yu Kecil"
+                    ]
+                },
+                "sub": {}
+            },
+            "32": {
+                "name": {
+                    "main": "Jawa Barat",
+                    "alt": ["JaBar"]
+                },
+                "argo": {
+                    "isle": [
+                        "Balekambang", "Batukolotok", "Batununggul", "Batupayung",
+                        "Batupayung Leutik", "Candikian", "Gosongtengah", "Gotor",
+                        "Karangganjor", "Karanghantu", "Karangkakapak", "Kunti", "Mandra",
+                        "Manggar", "Manuk", "Nusamanuk", "Sebrotan", "Sodonggede"
+                    ]
+                },
+                "sub": {}
+            },
+            "33": {
+                "name": {
+                    "main": "Jawa Tengah",
+                    "alt": ["JaTeng"]
+                },
+                "argo": {
+                    "isle": [
+                        "Batu", "Bengkoang", "Burung", "Cemara Kecil", "Cemoro Besar",
+                        "Cemoro Kecil", "Cendekian", "Cilik", "Gede", "Geleang", "Genting",
+                        "Gundul", "Karimunjawa", "Katang", "Kembar", "Kemujan", "Krakal Besar",
+                        "Krakal Kecil", "Kumbang", "Marongan", "Menjangan Besar", "Menjangan Kecil",
+                        "Menyawakan", "Mondoliko", "Mrico", "Nusakambangan", "Nyamuk", "Panjang",
+                        "Parang", "Sambangan", "Seruni", "Sintok", "Sualan", "Tengah"
+                    ]
+                },
+                "sub": {}
+            },
+            "34": {
+                "name": {
+                    "main": "Yogyakarta",
+                    "alt": ["Jogjakarta", "Jogja"],
+                    "spc": "Daerah Istimewa"
+                },
+                "argo": {
+                    "isle": [
+                        "Amben", "Baron", "Drini", "Godeg", "Gununggandul", "Gunungsemar",
+                        "Jumpino", "Jungwok", "Kalong", "Krokoh", "Lawang", "Layar", "Ngondo",
+                        "Ngrawe", "Ngusalan", "Payung", "Timang", "Watubebek", "Watukapal",
+                        "Watulawang", "Watunganten Lor", "Watunglambor", "Watupanjang",
+                        "Watupayung Siratan", "Watupayung Siung", "Watutogog", "Watutopi"
+                    ]
+                },
+                "sub": {}
+            },
+            "35": {
+                "name": {
+                    "main": "Jawa Timur",
+                    "alt": ["JaTim"]
+                },
+                "argo": {
+                    "isle": [
+                        "Airbatu", "Aloan", "Ampel", "Anak Sosari", "Anak Tamengan", "Anakan",
+                        "Anakcigar", "Angkrang", "Araan", "Babatan", "Bade", "Bagong", "Bagong Satu",
+                        "Bakung", "Bandealit", "Bangkau", "Bangkong Kecil", "Bangkong Kulon",
+                        "Bangkong Wetan", "Banyu Tarung", "Banyunglerep", "Banyutarung", "Bathok",
+                        "Batuapi", "Batukebo", "Batuleter", "Batupayung", "Bawean", "Bedil",
+                        "Bedil Kecil", "Bengkung", "Bercak", "Bindanan", "Birangbirang", "Blindis",
+                        "Bokor Dua", "Bokor Satu", "Bondol", "Boom", "Boyolangu", "Brenggolo",
+                        "Bujareng", "Bungin Tengah", "Bunginyarat", "Bunteng", "Celeng",
+                        "Cengger Kulon", "Cengger Wetan", "Ceregek", "Cibbao", "Cigar", "Cilik", "Cina",
+                        "Clungup", "Cungcung", "Dali", "Dandangdangdang", "Daru", "Dem", "Depade",
+                        "Doro", "Dukoh Besar", "Dukuh Kecil", "Endasbajul", "Gadung", "Galang",
+                        "Gampar", "Gede", "Gedebok", "Gelirang", "Genthong", "Gilen", "Gili",
+                        "Giliduak", "Giligenting", "Giligili", "Giliketapang", "Gililawak",
+                        "Gilingan", "Gilinoko", "Gilipandan", "Giliraja", "Giliyang", "Glatik",
+                        "Glatik Dua", "Glinding", "Glodakan", "Goacina", "Godo", "Godocilik", "Golong",
+                        "Gombal", "Guagua", "Gunungalit", "Gununggede", "Gunungkombang", "Gununglabu",
+                        "Gununglanang", "Gunungmanuk", "Gunungpegat", "Gunungsukmoilang", "Hanoman",
+                        "Ismoyo", "Jangkung", "Jantur", "Jaran", "Jewuwur", "Junggring Saluko",
+                        "Kajang", "Kaji Kidul", "Kaji Lor", "Kaloangan", "Kalong", "Kalong Cilik",
+                        "Kalongan", "Kalongan Cilik", "Kalosot", "Kamarong", "Kambing", "Kamudi",
+                        "Kangean", "Kapulogo", "Karamian", "Karang", "Karang Selatan", "Karang Utara",
+                        "Karangan", "Karangbila", "Karanggemer", "Karangkecil Dua", "Karangkecil Satu",
+                        "Karangmalang", "Karangmas", "Karangmas Dua", "Karangmas Empat",
+                        "Karangmas Satu", "Karangmas Tiga", "Karangnongko", "Karangpegat", "Karasan",
+                        "Karenteng", "Kates", "Kedung", "Kelabang", "Kembar Dua", "Kembar Satu",
+                        "Kempong", "Keranjang", "Kerinci", "Kerincing", "Kisut", "Klepek",
+                        "Klompok Kidul", "Klompok Lor", "Kodok", "Kodok Cilik", "Kodok Gede",
+                        "Komirian", "Konyelan", "Krangkoma", "Krucut", "Kucir", "Kunyit", "Kuyon",
+                        "Laedi", "Lapak", "Lawang", "Layar", "Layar Kecil", "Leminti", "Lumbung",
+                        "Lutung", "Macan", "Maegangan", "Malang", "Malang Dua", "Malang Satu",
+                        "Malelangan", "Mamburit", "Mandangin", "Manok", "Manuk", "Manukan", "Manyar",
+                        "Masakambing", "Masalembu", "Mbatang", "Melengkung", "Menjangan", "Meongan",
+                        "Merah", "Meru", "Merubetiri", "Minggir", "Moronan", "Mrutu Besar",
+                        "Mrutu Kecil", "Mustaka", "Mustaka Kecil", "Ngekel", "Ngglobyor", "Ngrembeng",
+                        "Noko", "Nusa", "Nusabarong", "Nyampur", "Nyonya", "Nyonya Dua", "Nyonya Satu",
+                        "Nyonya Tiga", "Pager", "Pagerungan Besar", "Pagerungan Kecil", "Paliat",
+                        "Pandanan Barat", "Pandanan Selatan", "Pandanan Timur", "Pangapos",
+                        "Pangapos Raje", "Pangas", "Panikan", "Panji", "Parangjahe", "Parengan",
+                        "Pasirpanjang", "Pasirputih", "Pat Ji", "Pat Lu", "Pat Pat", "Pat Ro",
+                        "Pawon Kulon", "Pawon Tengah", "Pawon Wetan", "Pawonan", "Payangan", "Payung",
+                        "Peang Langka", "Pehpulo", "Penyon", "Percak", "Percak Kulon", "Percak Tengah",
+                        "Percak Wetan", "Perengguk", "Pindana", "Piropok", "Pitu", "Poteran", "Pranti",
+                        "Prenjono", "Prenjono Kulon", "Prenjono Wetan", "Pukding", "Ra'as", "Rante",
+                        "Reges", "Rondo", "Rowogedang", "Sabiteng", "Sabunten", "Sadulang Besar",
+                        "Sadulang Kecil", "Saebus", "Sagentoh", "Sakala", "Saketek", "Sako", "Sakobing",
+                        "Sakotok", "Salaoge", "Salaor", "Salaor Dua", "Salarangan", "Salubar", "Santen",
+                        "Saobi", "Sapapan", "Sapares", "Sapeken", "Sapinggan", "Sapudi", "Sarang",
+                        "Saredeng Besar", "Saredeng Kecil", "Sarok", "Sasah", "Saseel", "Saular",
+                        "Saur", "Segunung", "Seketeng", "Seketeng Alit", "Selayar", "Seling",
+                        "Selolajer Kulon", "Selolajer Wetan", "Seluguk", "Semar", "Sempu", "Semut",
+                        "Sepangkur Besar", "Sepangkur Kecil", "Sepanjang", "Serahu", "Seroyo", "Setigi",
+                        "Siklopo", "Simun", "Singo", "Sini Cilik", "Sini Gede", "Sirap", "Sitabok",
+                        "Sitangis", "Siupas", "Socce", "Solimo", "Solimo Kulon", "Solimo Lor",
+                        "Solimo Tengah", "Solimo Wetan", "Somang", "Songkalong", "Sosari", "Sruwi",
+                        "Sruwicil", "Sukamade", "Suleh", "Sumenggung", "Sumenggung Barat",
+                        "Sumenggung Tengah", "Sumenggung Timur", "Sunglon", "Taboklinto", "Tabokraba",
+                        "Tabuan", "Talaga", "Talango Aeng", "Talango Tengah", "Talango Timur",
+                        "Talengkis Besar", "Talengkis Kecil", "Tales", "Tamengan", "Tangio", "Tangis",
+                        "Tanjungalangalang", "Tanjungbengkok", "Tanjungjongkong Kulon",
+                        "Tanjungjongkong Wetan", "Tanjungkembang", "Tanjungmanuk", "Tanjungmotor Dua",
+                        "Tanjungmotor Satu", "Tanjungndek", "Tanjungpelalang", "Tanjungtogotogo Dua",
+                        "Tanjungtogotogo Satu", "Tarajje", "Tarunggu Besar", "Tarunggu Kecil", "Teang",
+                        "Teang Kidul", "Teang Lor", "Teledek", "Tembing Macan", "Tenger", "Timunan",
+                        "Tingkarah Besar", "Tingkarah Kecil", "Tobo Agoh", "Tobotobo Dua", "Tobotobu",
+                        "Togotogo", "Tolik", "Tonduk", "Tumpeng Cilik", "Tumpeng Gede", "Wakul",
+                        "Watuanjir Gebang", "Watuanjir Tenggas", "Watubolong Dua", "Watubolong Satu",
+                        "Watubolong Tiga", "Watubuto", "Watuceting", "Watudukun", "Watugrejo Cilik",
+                        "Watugrejo Gede", "Watugundul", "Watujamur", "Watujaran", "Watukadal",
+                        "Watukapal", "Watukarung", "Watulajer", "Watulayar", "Watulemper", "Watulobang",
+                        "Watumurep", "Watungampiran", "Watupayung", "Watupayung Kecil",
+                        "Watupayung Selatan", "Watupayung Tengah", "Watupayung Utara", "Watuprau",
+                        "Waturai", "Wayang", "Wedhiciut", "Wedhiombo", "Weru", "Wisanggeni"
+                    ]
+                },
+                "sub": {
+                    "regenc": [
+                        {"name": "Pacitan", "sub": {}},
+                        {"name": "Ponorogo", "sub": {}},
+                        {"name": "Trenggalek", "sub": {}},
+                        {"name": "Tulungagung", "sub": {}},
+                        {"name": "Blitar", "sub": {}},
+                        {"name": "Kediri", "sub": {}},
+                        {"name": "Malang", "sub": {}},
+                        {"name": "Lumajang", "sub": {}},
+                        {"name": "Jember", "sub": {}},
+                        {"name": "Banyuwangi", "sub": {}},
+                        {"name": "Bondowoso", "sub": {}},
+                        {"name": "Situbondo", "sub": {}},
+                        {"name": "Probolinggo", "sub": {}},
+                        {"name": "Pasuruan", "sub": {}},
+                        {"name": "Sidoarjo", "sub": {}},
+                        {"name": "Mojokerto", "sub": {}},
+                        {"name": "Jombang", "sub": {}},
+                        {"name": "Nganjuk", "sub": {}},
+                        {"name": "Madiun", "sub": {}},
+                        {"name": "Magetan", "sub": {}},
+                        {"name": "Ngawi", "sub": {}},
+                        {"name": "Bojonegoro", "sub": {}},
+                        {"name": "Tuban", "sub": {}},
+                        {"name": "Lamongan", "sub": {}},
+                        {"name": "Gresik", "sub": {}},
+                        {"name": "Bangkalan", "sub": {}},
+                        {"name": "Sampang", "sub": {}},
+                        {"name": "Pameungpeuk", "sub": {}},
+                        {"name": "Sumenep", "sub": {}}
+                    ],
+                    "ct": [
+                        {"name": "Kediri", "sub": {}},
+                        {"name": "Blitar", "sub": {}},
+                        {"name": "Malang", "sub": {}},
+                        {"name": "Probolinggo", "sub": {}},
+                        {"name": "Pasuruan", "sub": {}},
+                        {"name": "Mojokerto", "sub": {}},
+                        {"name": "Madiun", "sub": {}},
+                        {"name": "Surabaya", "sub": {}},
+                        {"name": "Batu", "sub": {}}
+                    ]
+                },
+                "cap": 78
+            },
+            "36": {
+                "name": {
+                    "main": "Banten"
+                },
+                "argo": {
+                    "isle": [
+                        "Badul", "Batuasin", "Batuputih", "Batuquran", "Betingan",
+                        "Boboko", "Cikantung", "Deli", "Handeuleum", "Handeuleum Tengah",
+                        "Kabuyutan", "Kali Selatan", "Kali Utara", "Karangbidur",
+                        "Karangbokor", "Karangcareuh", "Karangcawene", "Karangcikalapa Beureum",
+                        "Karangcopong Besar", "Karangcopong Kecil", "Karangeurih",
+                        "Karangewoh", "Karanggunungpayung", "Karangjajar", "Karangmalang",
+                        "Karangmasigit", "Karangpabayang", "Karangparejakah",
+                        "Karangtikukur", "Karangtikukur Kecil", "Kemanisan", "Kubur",
+                        "Lima", "Liwungan", "Mangir", "Manuk", "Merak Besar", "Merak Kecil",
+                        "Oar", "Pamanggangan", "Pamujan Besar", "Pamujan Kecil", "Panaitan",
+                        "Panjang", "Peucang", "Pinangkecing", "Pisang", "Plorida",
+                        "Popole", "Salira", "Sangiang", "Semut", "Tanjunglayar", "Tarahan",
+                        "Tempurung", "Tinjil", "Tunda", "Ular", "Umang", "Waton"
+                    ]
+                },
+                "sub": {}
+            }
+        },
+        "Kalimantan": {
+            "61": {
+                "name": {
+                    "main": "Kalimantan Barat",
+                    "alt": ["KalBar"]
+                },
+                "argo": {
+                    "isle": [
+                        "Aur Besar", "Aur Kecil", "Ayer", "Babi", "Bagu", "Bakau",
+                        "Bakung Besar", "Bakung Kecil", "Baru", "Batulayang", "Batumeregung",
+                        "Batupayung", "Bawal", "Begunung", "Belacan", "Belumbak Besar",
+                        "Belumbak Kecil", "Belungai", "Benuang", "Berembang", "Besi",
+                        "Betingtengah", "Bidara", "Bintangtimur", "Blian", "Buan", "Bulat Dua",
+                        "Bulat Satu", "Buluh Besar", "Buluh Kecil", "Bumin", "Bungin",
+                        "Buntutlimbung", "Bunyau", "Burung Besar", "Burung Kecil", "Busung",
+                        "Cebe", "Cempedak Dua", "Cempedak Satu", "Cempede", "Cermin", "Dabong",
+                        "Dato", "Datok", "Dua Barat", "Dua Besar", "Dua Kecil", "Dua Timur",
+                        "Dua Tokong", "Gambar", "Gelam", "Gelanggang", "Genteng", "Genting",
+                        "Gresik", "Gurun Besar", "Gurun Kecil", "Hantu", "Hanyut", "Iras",
+                        "Jambat Besar", "Jambat Kecil", "Jambu", "Juante", "Julai", "Kabung",
+                        "Kalap Tokong", "Kapak", "Kapuak", "Karimata", "Karimata Tua",
+                        "Katung", "Kelapa", "Kelawar", "Kelawar Tokong", "Kepayang",
+                        "Kepayang Tokong", "Kera", "Keranji", "Kerengga", "Koca", "Korok",
+                        "Krawang", "Kucing", "Kurnia", "Lagan", "Lalang", "Langau", "Langir",
+                        "Layah Besar", "Layah Kecil", "Leman", "Lemanbudi", "Lemanlalang",
+                        "Lemanpaku", "Lemansarang", "Lemantokong", "Lemanujung", "Lemukutan",
+                        "Limbung", "Lintang", "Lising", "Lising Dua Tokong", "Lising Empat Tokong",
+                        "Lising Enam Tokong", "Lising Lima Tokong", "Lising Satu Tokong",
+                        "Lising Tiga Tokong", "Lukutkera", "Lutung Dua", "Lutung Satu", "Macan",
+                        "Malangnek", "Malangpinggan", "Malangrukuk", "Mangkup", "Manjin",
+                        "Mastiga Darat", "Mastiga Laut", "Maya", "Meledang", "Mengkudu Tukong",
+                        "Mensigi", "Mensikur", "Mentangor", "Meresak", "Minyak", "Muarakubu",
+                        "Munggu'linang", "Nanas", "Nenas", "Nibung", "Nyamuk", "Padangtikar",
+                        "Pakawal", "Pandan Besar", "Pandan Kecil", "Pandan Tokong", "Panjang",
+                        "Papan", "Payung", "Pelapisairmasin", "Pelapisgenting", "Pelapistiangbalai",
+                        "Pelintu", "Pelombak", "Pelubang", "Penambun", "Penangis", "Penatah Besar",
+                        "Penatah Kecil", "Pendamaran", "Penebang", "Penibung", "Perangin Tokong",
+                        "Perantun", "Perling", "Pikah", "Pontianak", "Pulaibuntung", "Randayan",
+                        "Rusa Dua", "Rusa Satu", "Salahnama", "Sanggul", "Sawi Besar", "Sawi Kecil",
+                        "Sejenuairtawar", "Sekancil", "Selatsih", "Selimpai", "Seluas",
+                        "Semesak", "Sempadi Besar", "Sempadi Kecil", "Sempadi Laut", "Sentigi",
+                        "Separoh", "Sepokkeladi", "Sepoklaut", "Sepokperupuk", "Serutu",
+                        "Setinjang", "Simping", "Sireh", "Sireh Tokong", "Suka", "Sumur",
+                        "Surunggading", "Tanahmerah", "Tanjungsaleh", "Tanjungsapi", "Tating",
+                        "Tawas", "Tayan", "Telokair Dua", "Telokair Satu", "Telokair Tiga",
+                        "Telukbayur", "Telukperiyuh", "Temajo", "Tempurung", "Tenggaramandi",
+                        "Tiga", "TN 1", "Trusanhaji", "Tua", "Tuntang", "Ular", "Uma", "Upeh"
+                    ]
+                },
+                "sub": {}
+            },
+            "62": {
+                "name": {
+                    "main": "Kalimantan Tengah",
+                    "alt": ["KalTeng"]
+                },
+                "argo": {
+                    "isle": [
+                        "Bagantung", "Bangkuang", "Baru", "Batubuaya", "Batumandi", "Batutungku",
+                        "Bengaris", "Berangas", "Berangas Kurik", "Besiam", "Besiam Kurik", "Burung",
+                        "Damar", "Gani", "Hampapak", "Hanaut", "Hanibung", "Hantasanbabai", "Hantu",
+                        "Hilirbabai", "Huluasam", "Hulubabai", "Kaja", "Kaladan", "Kamapit", "Kanamit",
+                        "Keramat", "Ketapang", "Klaru", "Kudung", "Kupang", "Lampahen", "Landabung",
+                        "Lapetan", "Lepeh", "Mambulau", "Mintin Besar", "Mintin Kecil", "Nusatambing",
+                        "Palabangan", "Papu", "Pari", "Rambai", "Roko", "Rokok Selat", "Rungun",
+                        "Sampiding", "Samudra", "Santilik Ha'i", "Santilik Kurik", "Sekodor",
+                        "Selatbaru", "Takapan", "Tampijak", "Tangguk", "Tanjungjawa", "Telu",
+                        "Telu Bentok", "Telu Hai", "Telu Kurik", "Tewangkampong", "Tikus", "Tuwung"
+                    ]
+                },
+                "sub": {}
+            }
+        }
+    },
+    "C": {
+        "Kalimantan": {
+            "63": {
+                "name": {
+                    "main": "Kalimantan Selatan",
+                    "alt": ["KalSel"]
+                },
+                "argo": {
+                    "isle": [
+                        "Alalak", "Anak Payungpayungan", "Anak Suwangi", "Anyar", "Anyar Hilir",
+                        "Asam", "Aur", "Bahu", "Bakut", "Bale", "Balipat", "Barunak", "Basar",
+                        "Basarbalawang", "Basardamang", "Basarkapal", "Basarpandan", "Basarsawar",
+                        "Batu Barat", "Batu Tengah", "Batuadang Selatan", "Batuadang Utara",
+                        "Batubejanggut", "Batulima Darat", "Batulima Selatan", "Batulima Tengah",
+                        "Batulima Timur", "Batulima Utara", "Bidan Sulangkajan", "Bini Bungkukan",
+                        "Bini Cantung", "Birahbirahan", "Biru", "Bromo", "Buroto", "Burung",
+                        "Burung Besar", "Burung Kecil", "Burung Kelumpang", "Cinta", "Condong",
+                        "Curiak", "Danauwan", "Dare", "Datu", "Dupa", "Gambang", "Gunungtulangan",
+                        "Hajar", "Halaban", "Halaban Kecil", "Halangmelingkau", "Haliling",
+                        "Hantu", "Haur", "Janda", "Jangking", "Jaring", "Jurung", "Kacang",
+                        "Kaget", "Kalambau", "Kaliamun", "Kaluang", "Kaminting", "Kapak Besar",
+                        "Kapak Kecil", "Karajaan", "Karangan", "Kembang", "Kerasian", "Kerawang",
+                        "Kersikhitam", "Kerumputan", "Kunyit", "Kunyit Matasirih", "Laki Bungkukan",
+                        "Laki Cantung", "Langadai", "Laut", "Mangkuk", "Manti", "Marabatuan",
+                        "Maradapan", "Maraeng", "Matasiri", "Merdeka", "Nangka Besar", "Nangka Kecil",
+                        "Ondong", "Pagat", "Palaburan", "Pamalikan", "Pandangpandangan", "Parak",
+                        "Pardamaian Besar", "Pardamaian Kecil", "Payungpayungan", "Rambai",
+                        "Raukan Besar", "Raukan Kecil", "Sambargalang", "Sambergelap", "Samut",
+                        "Santimunan Dalam", "Santimunan Luar", "Sarang", "Sari", "Sawah", "Sebuku",
+                        "Sepakat", "Sepisau", "Serudung", "Sungaidua", "Sungaihalangan", "Sungaihambar",
+                        "Sungaikerapu", "Sungainibung", "Sungaipuayan", "Suren", "Suwangi", "Tabuan",
+                        "Tajak", "Tampakan", "Tanahmerah", "Tarusan", "Tempurung", "Tepianmataja",
+                        "Terusan Tengah", "Titipan Indah", "Tiwadak", "Tokong", "Tugu"
+                    ]
+                },
+                "sub": {}
+            },
+            "64": {
+                "name": {
+                    "main": "Kalimantan Timur",
+                    "alt": ["KalTim"]
+                },
+                "argo": {
+                    "isle": [
+                        "Abas", "Agaragar", "Agis", "Aji", "Andongabu", "Antal", "Apaspayau",
+                        "Babanir Baru", "Babi", "Badakbadak", "Badakbadak Barat", "Badakbadak Timur",
+                        "Bajau", "Bakungan Diki", "Bakungan Hea", "Balambangan", "Balang",
+                        "Balikkukup", "Bangau", "Bangkai", "Banjang", "Bansik", "Bara", "Bara Selatan",
+                        "Barasan", "Baru", "Baru Dua", "Baru Ilir", "Baru Lumot", "Baru Satu",
+                        "Baru Ulu", "Batok", "Batukapal", "Batupayau", "Belian", "Belipot",
+                        "Belipot Kecil", "Belipot Tengah", "Benawa Besar", "Benawa Kecil", "Berai",
+                        "Berasbasah", "Berau", "Berukang", "Berunai", "Besar", "Besing",
+                        "Bilangbilangan", "Bilung", "Bingkar", "Birahbirahan", "Bonggong Besar",
+                        "Bonggong Kecil", "Buka", "Bukuan", "Bulanbulan", "Bulingisan", "Buluhperindu",
+                        "Bunglalang", "Buntu", "Bunyu", "Burung", "Buyu", "Cangkir", "Cempa", "Cermin",
+                        "Cermin Kecil", "Cerocok", "Cincin Selatan", "Cincin Utara", "Cok", "Datu",
+                        "Datuk", "Demis", "Derawan", "Dinar", "Fani", "Gandeng", "Genting Besar",
+                        "Genting Kecil", "Guntung", "Gurimbang", "Gusung", "Halan", "Hantu", "Harapan",
+                        "Hurai", "Ibus", "Idoh", "Ijab", "Ilu", "Itingiting Kecil", "Jawa", "Jawang",
+                        "Jerang", "Jompang", "Jopang", "Junjung", "Kakaban", "Kamagi Lekkat",
+                        "Kamagi Pikkit", "Kambing", "Kaniungan Besar", "Kaniungan Kecil", "Karan",
+                        "Karanganseratus", "Karangansirau", "Karangkiampau", "Karangtimbul",
+                        "Kayumajarang", "Kedindingan Barat", "Kedindingan Tengah", "Kedindingan Timur",
+                        "Kedindingan Utara", "Kedumpit", "Kedumpit Barat", "Kedumpit Tengah",
+                        "Kedumpit Timur", "Kelambu", "Kelawasan", "Kemantis", "Keramat",
+                        "Keranggasan Barat", "Keranggasan Timur", "Kerbau", "Keris", "Kiak", "Kobe",
+                        "Kokok", "Koran", "Kualan", "Kubil", "Kubil Kecil", "Kuju", "Kumala", "Kwangan",
+                        "Labaanbilik", "Labatan", "Labulabu", "Laham", "Lakitkuhita", "Lalawan",
+                        "Lalukena", "Lantang Kecil", "Layangan", "Lemangunbibir", "Lentimun",
+                        "Lentimunpesalang", "Lepakaru", "Lepakaru Hilir", "Lepakaru Hulu", "Lerong",
+                        "Letung", "Limangun Tengah", "Lipan", "Liu Pudung", "Liumanis", "Liupata",
+                        "Liuqkarau", "Lungsurannaga", "Makapang", "Malu", "Manambula", "Mandul",
+                        "Mandul Lumot", "Mangkasak", "Mangkubuah", "Mangkudulis Besar",
+                        "Mangkudulis Kecil", "Mangkudulisbesar Barat", "Manimbora", "Mapat", "Maratua",
+                        "Maridan", "Mataha", "Mayundas", "Melaham", "Melahing", "Melimpung Besar",
+                        "Melimpung Kecil", "Mengkubung", "Mening", "Mensatul", "Merah", "Merayap",
+                        "Merdeka", "Merdeka Selatan", "Merdeka Tengah", "Merdeka Utara", "Miang",
+                        "Miang Besar", "Miang Kecil", "Muaraulu", "Nakal", "Nibung", "Nubi",
+                        "Pabahanan", "Padai", "Panalukang", "Pangkaran", "Panjang", "Panjang Dua",
+                        "Panjang Satu", "Pantuan", "Papa", "Pasbanau", "Patin", "Payau", "Peapea",
+                        "Pegah", "Peking", "Pemantuan", "Pengean", "Penti", "Penyepuan", "Perangatan",
+                        "Perangatan Besar", "Perangatan Kecil", "Perumpung Lumot", "Perumpung Tupar",
+                        "Pesalang", "Peti", "Posa", "Pusa", "Putus", "Rambairangas", "Rampien",
+                        "Ranggas", "Rantau Besar", "Rantau Kecil", "Rapak", "Rinding", "Sabanar",
+                        "Sabut", "Sadau", "Saka", "Salenketo", "Salenketo Kecil", "Samama", "Sambit",
+                        "Sangalaki", "Sangalan Diki", "Sangalan Hea", "Sarilaki", "Sarilaki Lumot",
+                        "Sebenah", "Sebidai", "Sebidai Selatan", "Sebidai Utara", "Sebudak",
+                        "Sebudak Panjang", "Sebudak Pendek", "Segarat", "Segaratmuara", "Sekapal",
+                        "Sekapal Utara", "Sekatakbengara", "Selayu", "Seleteh", "Seleteh Kecil",
+                        "Selor", "Selumut", "Semut", "Sengatok Besar", "Sengatok Kecil",
+                        "Sengatok Tengah", "Sengkuang", "Sentubung", "Senumpak", "Sepunti", "Sera",
+                        "Serai", "Seribu", "Serundung", "Sesayap", "Sialod", "Sianjung", "Siappung",
+                        "Sibela", "Sibilambay", "Sida", "Siddau", "Sigending Besar", "Sigending Kecil",
+                        "Sikang", "Singa", "Siontai", "Sitoddo", "Sodang Besar", "Solok",
+                        "Sungaikelambu", "TN 1", "TN 10", "TN 11", "TN 12", "TN 13", "TN 2", "TN 3",
+                        "TN 4", "TN 5", "TN 7", "TN 8", "TN 9", "Talisapan", "Tambora", "Tampin",
+                        "Tanao Besar", "Tanao Kecil", "Tangkapaan", "Tanjungbuayabuaya", "Tanjungdewa",
+                        "Tanjungjorrongjorrong Selatan", "Tanjungjorrongjorrong Utara",
+                        "Tanjungsitebba", "Tanjungtipis", "Tanjungtiram", "Tarakan", "Telasau",
+                        "Telukgenting", "Tembakau Besar", "Tembakau Hilir", "Tembakau Kecil",
+                        "Tembakau Pising", "Tembalang", "Tembangan", "Temenggah", "Tempudus",
+                        "Tempurung", "Tengkado", "Teribi", "Tibi Barat", "Tibi Lumot", "Tibi Selatan",
+                        "Tibi Timur", "Tibi Utara", "Tidung", "Tiga", "Tiga Selatan", "Tiga Tengah",
+                        "Tiga Utara", "Tihiktihik", "Timbangbarukang", "Tiram", "Titus Dua",
+                        "Titus Hulu", "Titus Kecil", "Titus Satu", "Tokong", "Tukung", "Tundukul",
+                        "Tungkudacing", "Tunu", "Ujohbilang", "Uraban", "Using", "Yupa"
+                    ]
+                },
+                "sub": {}
+            },
+            "65": {
+                "name": {
+                    "main": "Kalimantan Utara",
+                    "alt": ["KalUt"]
+                },
+                "argo": {
+                    "isle": [
+                        "Apastual", "Aus", "Bukat", "Bunyu", "Gosong Makasar",
+                        "Itai", "Kotawaringin", "Nunukan", "Pampang", "Pelanduk",
+                        "Pulibulu", "Sadau", "Sebatik", "Sekapal", "Sinelak", "Sinualan", 
+                        "Tarakan", "Tidongsalong", "Tidongsalong Lumot", "Tinabasan"
+                    ]
+                },
+                "sub": {}
+            }
+        },
+        "Sunda Kecil/Bali Nusa": {
+            "51": {
+                "name": {
+                    "main": "Bali",
+                    "alt": ["Denpasar", "Dewata", "Seribu Pura"]
+                },
+                "argo": {
+                    "isle": [
+                        "Bali", "Batulumbung", "Gili Biaha", "Gili Tepekong", "Nusa Besar",
+                        "Nusa Ceningan/Tandrat", "Nusa Lembongan", "Nusa Penida", "Nusadua", "Serangan"
+                    ]
+                },
+                "sub": {}
+            },
+            "52": {
+                "name": {
+                    "main": "Nusa Tenggara Barat",
+                    "alt": ["NTB"]
+                },
+                "argo": {
+                    "isle": [
+                        "Burung", "Dangar-besar", "Dompo", "Ganteng", "Giri Banta", "Kelapa",
+                        "Liong/Liang", "Lombok", "Medang", "Moyo/Mojo", "Ngali", "Panjang", "Pelandan",
+                        "Rakit/Raki", "Sangeang", "Satonda", "Sumbawa", "Taikabo", "Tengar"
+                    ]
+                },
+                "sub": {}
+            },
+            "53": {
+                "name": {
+                    "main":"Nusa Tenggara Timur",
+                    "alt": ["NTT"]
+                },
+                "argo": {
+                    "isle": [
+                        "Adonara", "Alor", "Babi, Flores", "Besar", "Bidadari", "Ende",
+                        "Flores", "Komodo", "Lomblen/Lombien/Lembata", "Mules", "Ndana",
+                        "Pakse", "Palue", "Pamana", "Pamana Besar", "Pantar", "Petrus",
+                        "Rinca", "Rote", "Sawu", "Semau", "Solor", "Sumba", "Timor"
+                    ]
+                },
+                "sub": {}
+            }
+        },
+        "Sulawesi": {
+            "71": {
+                "name": {
+                    "main": "Sulawesi Utara",
+                    "alt": ["SulUt"]
+                },
+                "argo": {
+                    "isle": [
+                        "Anda", "Ariagai", "Armadures", "Batunderang", "Bengdarat", "Biaro",
+                        "Buang", "Bukide", "Bunaken", "Dalam", "Dumarchen", "Kabaruan", "Kabaruan",
+                        "Kamalusu", "Karakelang", "Kawio", "Lembe", "Lipang", "Mamanuk", "Manado Tua",
+                        "Mantehage", "Meares", "Mekonane", "Miangas", "Pahepa", "Pasige", "Ruang",
+                        "Salibabu", "Sangihe", "Sangir", "Siau", "Tahulandang", "Talisei", "Tehang"
+                    ]
+                },
+                "sub": {}
+            },
+            "72": {
+                "name": {
+                    "main": "Sulawesi Tengah",
+                    "alt": ["SulTeng"]
+                },
+                "argo": {
+                    "isle": [
+                        "Bagian", "Banggai", "Bangkurung", "Jna Uma", "Labobo", "Menui", "Patudaka",
+                        "Peleng", "Poat", "Salue Besar", "Salue Kecil", "Timpaus", "Togian", "Waleabahi"
+                    ],
+                    "isles": ["Banggai", "Togian"]
+                },
+                "sub": {}
+            },
+            "73": {
+                "name": {
+                    "main": "Sulawesi Selatan",
+                    "alt": ["SulSel"]
+                },
+                "argo": {
+                    "isle": [
+                        "Badi", "Barrang Caddi", "Barrang Lompo", "Bonerate",
+                        "Bonetambung", "Jampea", "Kakabia", "Kalao", "Kalaotoa",
+                        "Kayangan", "Kayuadi", "Kodingareng", "Kodingareng Keke",
+                        "Lumulumu", "Pasi", "Samalona", "Selayar", "Tanakeke", "Tinabo"
+                    ]
+                },
+                "sub": {}
+            },
+            "74": {
+                "name": {
+                    "main": "Sulawesi Tenggara",
+                    "alt": ["SulTra"]
+                },
+                "argo": {
+                    "isle": [
+                        "Anano", "Bahubulu", "Bakealu", "Balu", "Batuala", "Bawulu",
+                        "Bero", "Binongko", "Bokori", "Buaya", "Buton", "Damalawa",
+                        "Gola", "Hari", "Hoga", "Kabaena/Tokotua", "Kadatua", "Kaholifano",
+                        "Kaledupa", "Kapota", "Karame", "Katela", "Kawi-Kawi", "Kayu Angin",
+                        "Labangke", "Labasina Kecil", "Langee", "Lemo", "Lentea", "Lua Cempedak",
+                        "Maginti", "Makassar", "Maloang", "Manai", "Mandi", "Maniang", "Masaloka",
+                        "Motaha", "Muna", "Padamarang", "Pisang", "Rangku", "Runduma", "Sagori",
+                        "Saponda Barat", "Saponda Laut", "Siompu", "Tabuang", "Tambako",
+                        "Telaga Besar", "Telaga Kecil", "Tobea Besar", "Tobea Kecil", "Tomia",
+                        "Waitonga Selatan", "Wakiwolu", "Wangi-Wangi/Wanci", "Wowoni"
+                    ]
+                },
+                "sub": {}
+            },
+            "75": {
+                "name": {
+                    "main": "Gorontalo"
+                },
+                "argo": {
+                    "isle": [
+                        "Bangko", "Bitila", "Bohu", "Bokisa", "Dodepo", "Dulawono",
+                        "Dulupi", "Duyinomo", "Halawa", "Kiakiaso", "Labengo", "Lahat",
+                        "Lampu", "Lamuudaa", "Lamuukiki", "Limba", "Lingkobekiki", "Makasar",
+                        "Mantolokiki", "Mopinggulo", "Otangale", "Otilade", "Pajongedaa",
+                        "Paniki", "Puntu", "Raja", "Sadaa", "Sadii", "Samauna", "Saronde"
+                    ]
+                },
+                "sub": {}
+            },
+            "76": {
+                "name": {
+                    "main": "Sulawesi Barat",
+                    "alt": ["SulBar"]
+                },
+                "argo": {
+                    "isle": [
+                        "Battoa", "Batumeanaq Bakengkeng", "Gusung Toraja",
+                        "Kambunong", "Karampuang", "Lereklerekan",
+                        "Panampeang", "Saboyang", "Taimanu", "Tangnga"
+                    ]
+                },
+                "sub": {}
+            }
+        }
+    },
+    "E": {
+        "Maluku": {
+            "81": {
+                "name": {
+                    "main": "Maluku"
+                },
+                "argo": {
+                    "isle": [
+                        "Ai", "Ambelau", "Ambon", "Babar", "Banda", "Boana", "Buru", "Dai", "Damar",
+                        "Enu", "Fordate", "Geser", "Gorong", "Haruk", "Jin", "Kai Besar", "Kai Kecil",
+                        "Kaimeer", "Kapala", "Kasiui", "Kisar", "Kobror", "Kola", "Kur", "Lakor",
+                        "Larat", "Leti", "Liran", "Luang", "Maikoor", "Manawoka", "Manipa","Manuk",
+                        "Marsela", "Moa", "Moaror", "Molu", "Nuswotar", "Panjang", "Penambulan",
+                        "Penjuring", "Romang", "Run", "Safa Renyut", "Selaru", "Selur", "Sera",
+                        "Seram", "Sermata", "Serua", "Terbang Selatan", "Terbang Utara",
+                        "Tioor", "Ujir", "Walir", "Wetan", "Wetar", "Wuliaru", "Yamdena"
+                    ],
+                    "isles": [
+                        "Aru", "Babar", "Banda", "Kai", "Leti", "Seram Laut",
+                        "Sermata", "Tanimbar", "Tayandu", "Watubela"
+                    ]
+                },
+                "sub": {}
+            },
+            "82": {
+                "name": {
+                    "main": "Maluku Utara",
+                    "alt": ["MalUt"]
+                },
+                "argo": {
+                    "isle": [
+                        "Bacan", "Bisa", "Dagasuli", "Dai", "Damar", "Failonga",
+                        "Gebe", "Halmahera", "Hasil", "Hiri", "Inggelang", "Jarongan",
+                        "Kahatola", "Kasiruta", "Kayoa", "Lifamatola", "Maitara", "Makian",
+                        "Malamala", "Mandioli", "Mangole", "Mare", "Morotai", "Moti", "Muar",
+                        "Muara", "Obilatu", "Pisang", "Sanana", "Saparua", "Sayafi", "Seram",
+                        "Taliabo", "Tanet", "Tapat", "Ternate", "Tidore", "Tubalai", "Uta"
+                    ],
+                    "isles": ["Aru", "Babar", "Leti", "Obi", "Sula", "Tanimbar"]
+                },
+                "sub": {}
+            }
+        },
+        "Papua": {
+            "91": {
+                "name": {
+                    "main": "Papua",
+                    "alt": ["Irian Jaya"],
+                    "spc": "Otonomi Khusus"
+                },
+                "argo": {
+                    "isle": [
+                        "Biak", "Dolak/Yos Sudarso", "Komoran", "Num/Miosnum", "Numfor",
+                        "Room", "Supiori", "Wakde", "Witau", "Yamna", "Yapen"
+                    ]
+                },
+                "sub": {}
+            },
+            "92": {
+                "name": {
+                    "main": "Papua Barat",
+                    "alt": ["PaBar", "Irian Jaya Barat"],
+                    "spc": "Otonomi Khusus"
+                },
+                "argo": {
+                    "isle": [
+                        "Adi", "Aiduma", "Batanta", "Daram", "Fam", "Gag", "Gam",
+                        "Karas", "Kofiau", "Maswaar", "Misol", "Rumberpon", "Sabuda",
+                        "Salawati", "Sayang", "Semai", "Waigeo", "War", "Wayang"
+                    ],
+                    "isles": ["Ayu", "Mapia"]
+                },
+                "sub": {}
+            }
+        }
+    },
+    "src": {
+        "isles": "id.wikipedia.org/wiki/Daftar_pulau_di_Indonesia_menurut_provinsi?action=raw",
+        "regncies": "kodewilayah.id",
+        "zips": "kodeposindo.com"
+    }
+}

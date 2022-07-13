@@ -1,0 +1,1 @@
+/^(indonesia|indo)(|\.json)$/gi
