@@ -16,7 +16,7 @@
                     ]
                 },
                 "sub": {
-                    "regenc": [
+                    "regnc": [
                         {"name": "Aceh Selatan", "sub": {}},
                         {"name": "Aceh Tenggara", "sub": {}},
                         {"name": "Aceh Timur", "sub": {}},
@@ -59,7 +59,7 @@
                     "isles": ["Hinako"]
                 },
                 "sub": {
-                    "regenc": [
+                    "regnc": [
                         {"name": "Tapanuli Tengah", "sub": {}},
                         {"name": "Tapanuli Utara", "sub": {}},
                         {"name": "Tapanuli Selatan", "sub": {}},
@@ -377,7 +377,7 @@
                     ]
                 },
                 "sub": {
-                    "regenc": [
+                    "regnc": [
                         {"name": "Pacitan", "sub": {}},
                         {"name": "Ponorogo", "sub": {}},
                         {"name": "Trenggalek", "sub": {}},
@@ -810,7 +810,21 @@
                         "Sermata", "Tanimbar", "Tayandu", "Watubela"
                     ]
                 },
-                "sub": {}
+                "sub": {
+                    "regnc": [
+                        {"name": "Maluku Tengah", "sub": {}},
+                        {"name": "Maluku Tenggara", "sub": {}},
+                        {"name": "Kepulauan Tanimbar", "sub": {}},
+                        {"name": "Buru", "sub": {}},
+                        {"name": "Seram Bagian Timur", "sub": {}},
+                        {"name": "Seram Bagian Barat", "sub": {}},
+                        {"name": "Kepulauan Aru", "sub": {}},
+                        {"name": "Maluku Barat Daya", "sub": {}},
+                        {"name": "Buru Selatan", "sub": {}}
+                    ],
+                    "ct": [{"name": "Ambon", "sub": {}}, {"name": "Tual", "sub": {}}]
+                },
+                "cap": 71
             },
             "82": {
                 "name": {
@@ -828,7 +842,20 @@
                     ],
                     "isles": ["Aru", "Babar", "Leti", "Obi", "Sula", "Tanimbar"]
                 },
-                "sub": {}
+                "sub": {
+                    "regnc": [
+                        {"name": "Halmahera Barat", "sub": {}},
+                        {"name": "Halmahera Tengah", "sub": {}},
+                        {"name": "Halmahera Utara", "sub": {}},
+                        {"name": "Halmahera Selatan", "sub": {}},
+                        {"name": "Kepulauan Sula", "sub": {}},
+                        {"name": "Halmahera Timur", "sub": {}},
+                        {"name": "Pulau Morotai", "sub": {}},
+                        {"name": "Pulau Taliabu", "sub": {}}
+                    ],
+                    "ct": [{"name": "Ternate", "sub": {}}, {"name": "Tidore Kepulauan", "sub": {}}]
+                },
+                "cap": 71
             }
         },
         "Papua": {
@@ -844,7 +871,40 @@
                         "Room", "Supiori", "Wakde", "Witau", "Yamna", "Yapen"
                     ]
                 },
-                "sub": {}
+                "sub": {
+                    "regnc": [
+                        {"name": "Merauke", "sub": {}},
+                        {"name": "Jayawijaya", "sub": {}},
+                        {"name": "Jayapura", "sub": {}},
+                        {"name": "Nabire", "sub": {}},
+                        {"name": "Kepulauan Yapen", "sub": {}},
+                        {"name": "Biak Numfor", "sub": {}},
+                        {"name": "Puncak Jaya", "sub": {}},
+                        {"name": "Paniai", "sub": {}},
+                        {"name": "Mimika", "sub": {}},
+                        {"name": "Sarmi", "sub": {}},
+                        {"name": "Keerom", "sub": {}},
+                        {"name": "Pegunungan Bintang", "sub": {}},
+                        {"name": "Yahukimo", "sub": {}},
+                        {"name": "Tolikara", "sub": {}},
+                        {"name": "Waropen", "sub": {}},
+                        {"name": "Boven Digoel", "sub": {}},
+                        {"name": "Mappi", "sub": {}},
+                        {"name": "Asmat", "sub": {}},
+                        {"name": "Supiori", "sub": {}},
+                        {"name": "Mamberamo Raya", "sub": {}},
+                        {"name": "Mamberamo Tengah", "sub": {}},
+                        {"name": "Yalimo", "sub": {}},
+                        {"name": "Lanny Jaya", "sub": {}},
+                        {"name": "Nduga", "sub": {}},
+                        {"name": "Puncak", "sub": {}},
+                        {"name": "Dogiyai", "sub": {}},
+                        {"name": "Intan Jaya", "sub": {}},
+                        {"name": "Deiyai", "sub": {}}
+                    ],
+                    "ct": [{"name": "Jayapura", "sub": {}}]
+                },
+                "cap": 71
             },
             "92": {
                 "name": {
@@ -860,13 +920,25 @@
                     ],
                     "isles": ["Ayu", "Mapia"]
                 },
-                "sub": {}
+                "sub": {
+                    "regnc": [
+                        {"name": "Sorong", "sub": {}},
+                        {"name": "Manokwari", "sub": {}},
+                        {"name": "Fak Fak", "sub": {}},
+                        {"name": "Sorong Selatan", "sub": {}},
+                        {"name": "Raja Ampat", "sub": {}},
+                        {"name": "Teluk Bintuni", "sub": {}},
+                        {"name": "Teluk Wondama", "sub": {}},
+                        {"name": "Kaimana", "sub": {}},
+                        {"name": "Tambrauw", "sub": {}},
+                        {"name": "Maybrat", "sub": {}},
+                        {"name": "Manokwari Selatan", "sub": {}},
+                        {"name": "Pegunungan Arfak", "sub": {}}
+                    ],
+                    "ct": [{"name": "Sorong", "sub": {}}]
+                },
+                "cap": 2
             }
         }
-    },
-    "src": {
-        "isles": "id.wikipedia.org/wiki/Daftar_pulau_di_Indonesia_menurut_provinsi?action=raw",
-        "regncies": "kodewilayah.id",
-        "zips": "kodeposindo.com"
     }
 }
