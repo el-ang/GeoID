@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 1000 1000"><defs><clipPath id="b"><rect width="1000" height="1000"/></clipPath></defs><g id="a" clip-path="url(#b)"><path d="M325,550,0,700V400H0V150L325,0,675,150,1000,0V550L675,700Z" transform="translate(0 200)" fill="#1e90ff"/><path d="M0,700V450L300,311.538v250Zm700-11.537v-250L1000,300V550L700,688.462h0Z" transform="translate(0 200)" fill="#fff"/><path d="M0,400H0V150L300,11.539v250Zm700-11.539h0v-250L1000,0V250Z" transform="translate(0 200)" fill="red"/><path d="M343.869,502.713l-125.5-53.787V410.389a100.438,100.438,0,0,0,54.888-36.107l70.612,29.973v98.457Zm-174.5-74.787L43.87,374.14V276.913L94.964,298.6a101,101,0,0,0-1.094,14.823,99.915,99.915,0,0,0,75.5,96.964v17.535Zm174.5-77.987h0l-51.094-21.688a101.013,101.013,0,0,0,1.1-14.824,99.915,99.915,0,0,0-75.5-96.964V198.925l125.5,53.786v97.228Zm-229.388-97.37h0L43.87,222.6V124.14L163.5,175.412c1.858,2.394,3.831,4.922,5.864,7.515V216.46a100.441,100.441,0,0,0-54.888,36.109Zm229.388-49.857L238.08,157.371C268.165,117.707,310.94,58.209,343.869,0V202.712ZM109.305,102.184h0L43.87,74.139V0C61.383,30.961,83.4,65.339,109.3,102.181h0Z" transform="translate(306.13 386.575)" fill="lime"/><circle cx="50" cy="50" r="50" transform="translate(450 650)" fill="#fff"/><g transform="translate(0 50)"><path d="M150,0A150,150,0,0,1,300,150c0,82.843-150,300-150,300S0,232.843,0,150A150,150,0,0,1,150,0Z" transform="translate(350 50)" fill="red"/><circle cx="75" cy="75" r="75" transform="translate(425 125)" fill="#fff"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="256" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <g id="map" transform="translate(0 -74.4)">
+      <path id="sea" d="M83.2,140.8,0,179.2V102.4H0v-64L83.2,0l89.6,38.4L256,0V140.8l-83.2,38.4Z" transform="translate(0 125.6)" fill="#1e90ff"/>
+      <path id="white" d="M0,402.4v-64l76.8-35.446v64Zm179.2-2.953v-64L256,300v64l-76.8,35.446h0Z" transform="translate(0 -97.6)" fill="#fff"/>
+      <path id="red" d="M0,102.4H0v-64L76.8,2.954v64Zm179.2-2.954h0v-64L256,0V64Z" transform="translate(0 125.6)" fill="red"/>
+      <path id="arc" d="M120.67,128.695,88.542,114.925V105.06a25.712,25.712,0,0,0,14.051-9.243l18.077,7.673v25.2ZM76,109.549,43.87,95.78V70.89l13.08,5.552a25.855,25.855,0,0,0-.28,3.795A25.578,25.578,0,0,0,76,105.059v4.489ZM120.67,89.584h0l-13.08-5.552a25.857,25.857,0,0,0,.28-3.795A25.578,25.578,0,0,0,88.542,55.415v-4.49L120.67,64.694v24.89ZM61.946,64.658h0L43.87,56.986V31.78L74.5,44.905c.476.613.981,1.26,1.5,1.924v8.584a25.713,25.713,0,0,0-14.051,9.244ZM120.67,51.894,93.588,40.287C101.29,30.133,112.24,14.9,120.67,0V51.894ZM60.621,26.159h0L43.87,18.98V0c4.483,7.926,10.12,16.727,16.75,26.158h0Z" transform="translate(45.73 173.363)" fill="lime"/>
+      <ellipse id="point" cx="13" cy="12.5" rx="13" ry="12.5" transform="translate(115 241)" fill="#fff"/>
+      <g id="pin" transform="translate(89.6 100)">
+        <path id="red-2" data-name="red" d="M38.4,0A38.4,38.4,0,0,1,76.8,38.4c0,21.208-38.4,76.8-38.4,76.8S0,59.608,0,38.4A38.4,38.4,0,0,1,38.4,0Z" transform="translate(0 0)" fill="red"/>
+        <ellipse id="white-2" data-name="white" cx="19" cy="19.5" rx="19" ry="19.5" transform="translate(19.4 19)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
