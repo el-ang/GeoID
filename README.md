@@ -2,7 +2,7 @@
 ![GeoID](./pub/logo.svg)
 # GeoID :indonesia:
 Read Only API for List of Indonesia Geolocation's root and name.
-<div>
+</div>
 
 ## Structure
 More will be added here!
