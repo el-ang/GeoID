@@ -1,0 +1,28 @@
+{
+  "name": "geoid",
+  "version": "1.0.0",
+  "description": "Read Only API for List of Indonesia Geolocation's root and name.",
+  "main": "api.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el-ang/GeoID.git"
+  },
+  "keywords": [
+    "api",
+    "json",
+    "geolocation",
+    "indonesia"
+  ],
+  "author": "el-ang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/el-ang/GeoID/issues"
+  },
+  "homepage": "https://github.com/el-ang/GeoID#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
