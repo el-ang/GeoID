@@ -2,7 +2,7 @@
   "name": "geoid",
   "version": "1.0.0",
   "description": "Read Only API for List of Indonesia Geolocation's root and name.",
-  "main": "api.js",
+  "main": "index.js",
   "scripts": {
     "start": "nodemon ."
   },

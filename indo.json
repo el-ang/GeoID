@@ -13,7 +13,11 @@
                         "Nasi", "Panyang", "Pasi", "Penasi", "Peunasue", "Raya", "Reusam",
                         "Rondo", "Rusa", "Salaut Besar", "Sembilan", "Seumut", "Simeuleu",
                         "Simeuleu Ceut", "Tapah", "Trumon", "Tuangku", "Tulo", "Weh"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 205,
+                        "unnamed": 458
+                    }
                 },
                 "sub": {
                     "regnc": [
@@ -56,7 +60,11 @@
                         "Berhala", "Bojo", "Musala", "Nias", "Pandang", "Pangururan", "Pini",
                         "Salahnama", "Samosir", "Situngkus", "Tanabala", "Tanahmasa", "Telo"
                     ],
-                    "isles": ["Hinako"]
+                    "isles": ["Hinako"],
+                    "sum": {
+                        "named": 237,
+                        "unnamed": 182
+                    }
                 },
                 "sub": {
                     "regnc": [
@@ -108,7 +116,11 @@
                     "isle": [
                         "Angso Duo", "Karangmanjat", "Masokut", "Pagai Selatan", "Pagai Utara",
                         "Pandan", "Pisang Ketek", "Sanding", "Siberut", "Siduamata", "Tinopo"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 200,
+                        "unnamed": 191
+                    }
                 },
                 "sub": {}
             },
@@ -121,13 +133,23 @@
                         "Basu", "Batu Mandi", "Bengkalis", "Burung", "Halang Besar", "Jemur", "Kijang",
                         "Kundur", "Mas", "Mendol", "Merbau", "Nyiur", "Padang", "Panjang", "Penjalai",
                         "Rangsang", "Rupat", "Semakau", "Sinaboi", "Tebing Tinggi", "Tiga", "Topang"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 73,
+                        "unnamed": 66
+                    }
                 },
                 "sub": {}
             },
             "15": {
                 "name": {
                     "main": "Jambi"
+                },
+                "argo": {
+                    "sum": {
+                        "named": 16,
+                        "unnamed": 3
+                    }
                 },
                 "sub": {}
             },
@@ -137,7 +159,11 @@
                     "alt": ["SumSel"]
                 },
                 "argo": {
-                    "isle": ["Kemaro", "Maspari"]
+                    "isle": ["Kemaro", "Maspari"],
+                    "sum": {
+                        "named": 43,
+                        "unnamed": 10
+                    }
                 },
                 "sub": {}
             },
@@ -149,7 +175,11 @@
                     "isle": [
                         "Arifin", "Bangkai", "Dua", "Dua Satu", "Enggano", "Mega",
                         "Merbau Bengkulu", "Satu", "Tapak Bali", "Tikus Bengkulu"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 23,
+                        "unnamed": 24
+                    }
                 },
                 "sub": {}
             },
@@ -163,7 +193,11 @@
                         "Batu Legundi Balak", "Batu Mandi Bakauheni", "Batu Merah", "Batukerbau",
                         "Batumandi", "Kelagian", "Kiluan", "Legundi", "Panjang", "Pasaran",
                         "Rakata", "Rakata Kecil", "Sebesi", "Sebuku", "Sertung", "Tabuan"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 86,
+                        "unnamed": 102
+                    }
                 },
                 "sub": {}
             },
@@ -178,7 +212,11 @@
                         "Gersik", "Gusung Asam", "Kalangbau", "Kelemar", "Ketawai",
                         "Kuil", "Lapar", "Lengkuas", "Memperak", "Mendanau", "Nado",
                         "Nangka", "Nasik", "Panjang", "Pongok", "Semujur", "Tujuh"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 311,
+                        "unnamed": 639
+                    }
                 },
                 "sub": {}
             },
@@ -208,7 +246,11 @@
                     "isles": [
                         "Anambas", "Badas", "Karimun", "Lingga", "Natuna",
                         "Natuna Besar", "Natuna Selatan", "Riau", "Tambelan"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 1350,
+                        "unnamed": 1058
+                    }
                 },
                 "sub": {}
             }
@@ -242,7 +284,11 @@
                         "Sekati", "Semakdaun", "Semut Atas", "Semut Bawah", "Semut Kecil",
                         "Sepa Barat","Sepa Timur", "Tengah", "Tidung Besar", "Tidung Kecil", "Tikus",
                         "Tondan Timur", "Tongkeng", "Untungjawa", "Yu Besar", "Yu Kecil"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 111,
+                        "unnamed": 107
+                    }
                 },
                 "sub": {}
             },
