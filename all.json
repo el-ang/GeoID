@@ -561,7 +561,24 @@
                         "Tiga", "TN 1", "Trusanhaji", "Tua", "Tuntang", "Ular", "Uma", "Upeh"
                     ]
                 },
-                "sub": {}
+                "sub": {
+                    "regnc": [
+                        {"name": "Sambas", "sub": {}},
+                        {"name": "Mempawah", "sub": {}},
+                        {"name": "Sanggau", "sub": {}},
+                        {"name": "Ketapang", "sub": {}},
+                        {"name": "Sintang", "sub": {}},
+                        {"name": "Kapuas Hulu", "sub": {}},
+                        {"name": "Bengkayang", "sub": {}},
+                        {"name": "Landak", "sub": {}},
+                        {"name": "Sekadau", "sub": {}},
+                        {"name": "Melawi", "sub": {}},
+                        {"name": "Kayong Utara", "sub": {}},
+                        {"name": "Kubu Raya", "sub": {}}
+                    ],
+                    "ct": [{"name": "Pontianak", "sub": {}}, {"name": "Singkawang", "sub": {}}],
+                    "cap": 71
+                }
             },
             "62": {
                 "name": {
@@ -582,7 +599,25 @@
                         "Telu Bentok", "Telu Hai", "Telu Kurik", "Tewangkampong", "Tikus", "Tuwung"
                     ]
                 },
-                "sub": {}
+                "sub": {
+                    "regnc": [
+                        {"name": "Kotawaringin Barat", "sub": {}},
+                        {"name": "Kotawaringin Timur", "sub": {}},
+                        {"name": "Kapuas", "sub": {}},
+                        {"name": "Barito Selatan", "sub": {}},
+                        {"name": "Barito Utara", "sub": {}},
+                        {"name": "Katingan", "sub": {}},
+                        {"name": "Seruyan", "sub": {}},
+                        {"name": "Sukamara", "sub": {}},
+                        {"name": "Lamandau", "sub": {}},
+                        {"name": "Gunung Mas", "sub": {}},
+                        {"name": "Pulang Pisau", "sub": {}},
+                        {"name": "Murung Raya", "sub": {}},
+                        {"name": "Barito Timur", "sub": {}}
+                    ],
+                    "ct": [{"name": "Palangkaraya", "sub": {}}],
+                    "cap": 71
+                }
             }
         }
     },
