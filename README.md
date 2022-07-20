@@ -16,7 +16,7 @@ Read Only API for List of Indonesia Geolocation's root and name.
 More will be added here!
 
 
-[:bookmark:](#navigation) | [![Top](./pub/img/favicon.ico)](#up)
+[:bookmark:](#navigation) || [![Top](./pub/img/favicon.ico)](#up)
 
 ## Reference
 - [Region's name & structure](https://kodewilayah.id)
@@ -28,7 +28,7 @@ More will be added here!
 - [Indonesia Zip Codes](https://kodeposindo.com)
 
 
-[:bookmark:](#navigation) | [![Top](./pub/img/favicon.ico)](#up)
+[:bookmark:](#navigation) || [![Top](./pub/img/favicon.ico)](#up)
 
 ## TO DOs
 - [ ] Adding more source data to main JSON. Need Help! :sob:
@@ -38,16 +38,16 @@ More will be added here!
 - [ ] Publishing API via GitHub Pages.
 
 
-[:bookmark:](#navigation) | [![Top](./pub/img/favicon.ico)](#up)
+[:bookmark:](#navigation) || [![Top](./pub/img/favicon.ico)](#up)
 
 ## License
 [![MIT](https://shields.io/badge/License-MIT-a31f34?style=for-the-badge&colorA=202020&logoWidth=30&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLXphei0tPgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgaGVpZ2h0PSIxNjYiIHdpZHRoPSIzMjEiPgo8ZyBzdHJva2Utd2lkdGg9IjM1IiBzdHJva2U9IiNBMzFGMzQiPgo8cGF0aCBkPSJtMTcuNSwwdjE2Nm01Ny0xNjZ2MTEzbTU3LTExM3YxNjZtNTctMTY2djMzbTU4LDIwdjExMyIvPgo8cGF0aCBkPSJtMTg4LjUsNTN2MTEzIiBzdHJva2U9IiM4QThCOEMiLz4KPHBhdGggZD0ibTIyOSwxNi41aDkyIiBzdHJva2Utd2lkdGg9IjMzIi8+CjwvZz4KPC9zdmc+Cg==)](./LICENSE)
 
 
-[:bookmark:](#navigation) | [![Top](./pub/img/favicon.ico)](#up)
+[:bookmark:](#navigation) || [![Top](./pub/img/favicon.ico)](#up)
 
 ## Under Development :construction:
 Any contributions are welcome to this repository.
 
 
-[:bookmark:](#navigation) | [![Top](./pub/img/favicon.ico)](#up)
+[:bookmark:](#navigation) || [![Top](./pub/img/favicon.ico)](#up)

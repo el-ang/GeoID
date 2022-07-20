@@ -1,32 +1,24 @@
-const xp = require("express"), app = xp(), url = require("url"),
-route = require("./route"), fs = require("fs"), port = process.env.PORT || 8080;
-route.midWare = (w, name)=>{
-    app.get(`/${w}`, route[name]);
-}
+const xp = require("express"), app = xp(), fs = require("fs"),
+url = require("url"), route = require("./route")(xp, app, fs),
+riot = {
+    "all": ["api", "dat", "data", "indo", "indonesia"],
+    "zone": ["timezone"],
+    "group": ["big", "main"],
+    "argo": ["archipel", "archipelago", "nusantara"],
+    "lost": ["404"]
+}, port = process.env.PORT || 8080;
 
 /* Asset */
-app.get("/pub", xp.static("pub"));
-app.get("/favicon.ico", xp.static("pub/img/favicon.ico"));
+app.use("/pub", xp.static("pub"));
+app.use("/favicon.ico", xp.static("pub/img/logo.svg"));
 
 /* Home */
-app.get((req, res, next)=>{
+/* app.get((req, res, next)=>{
     console.log(url.parse(req.url).hash);
     next();
-});
+}); */
 
-/* Whole Data */
-["all", "api", "dat", "data", "indo", "indonesia"].forEach(w=>route.midWare(w, "all"));
-
-/* Zone */
-["zone", "timezone"].forEach(w=>route.midWare(w, "zone"));
-
-/* Main Islands */
-["group", "big", "main"].forEach(w=>route.midWare(w, "group"));
-
-/* Archipelago */
-["argo", "archipel", "archipelago", "nusantara"].forEach(w=>route.midWare(w, "argo"));
-
-/* 404 */
-["lost", "404"].forEach(w=>route.midWare(w, "lost"));
+/* Other Route */
+for(k in riot) route.midWare(k, riot[k]);
 
 app.listen(port, ()=>console.log(`\x1b[1m\x1b[38;5;42mServer\n\x1b[0m\x1b[38;5;221m   Port Ready: \x1b[1m\x1b[38;5;68m${port}\x1b[0m`));
