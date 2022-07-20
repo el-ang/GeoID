@@ -1,9 +1,9 @@
-<center id="up">
+<div id="up" align="center">
 
 ![GeoID](./pub/img/logo.svg)
 # GeoID :indonesia:
 Read Only API for List of Indonesia Geolocation's root and name.
-</center>
+</div>
 
 ## Navigation
 - [Structure](#structure)
