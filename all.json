@@ -46,9 +46,9 @@
                         {"name": "Lhokseumawe", "sub": {}},
                         {"name": "Langsa", "sub": {}},
                         {"name": "Subulussalam", "sub": {}}
-                    ]
-                },
-                "cap": 71
+                    ],
+                    "cap": 71
+                }
             },
             "12": {
                 "name": {
@@ -103,9 +103,9 @@
                         {"name": "Tebing Tinggi", "sub": {}},
                         {"name": "Padang Sidempuan", "sub": {}},
                         {"name": "Gunungsitoli", "sub": {}}
-                    ]
-                },
-                "cap": 78
+                    ],
+                    "cap": 78
+                }
             },
             "13": {
                 "name": {
@@ -303,7 +303,11 @@
                         "Batupayung Leutik", "Candikian", "Gosongtengah", "Gotor",
                         "Karangganjor", "Karanghantu", "Karangkakapak", "Kunti", "Mandra",
                         "Manggar", "Manuk", "Nusamanuk", "Sebrotan", "Sodonggede"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 19,
+                        "unnamed": 112
+                    }
                 },
                 "sub": {}
             },
@@ -320,7 +324,11 @@
                         "Krakal Kecil", "Kumbang", "Marongan", "Menjangan Besar", "Menjangan Kecil",
                         "Menyawakan", "Mondoliko", "Mrico", "Nusakambangan", "Nyamuk", "Panjang",
                         "Parang", "Sambangan", "Seruni", "Sintok", "Sualan", "Tengah"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 47,
+                        "unnamed": 249
+                    }
                 },
                 "sub": {}
             },
@@ -337,7 +345,11 @@
                         "Ngrawe", "Ngusalan", "Payung", "Timang", "Watubebek", "Watukapal",
                         "Watulawang", "Watunganten Lor", "Watunglambor", "Watupanjang",
                         "Watupayung Siratan", "Watupayung Siung", "Watutogog", "Watutopi"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 22,
+                        "unnamed": 1
+                    }
                 },
                 "sub": {}
             },
@@ -420,7 +432,11 @@
                         "Watumurep", "Watungampiran", "Watupayung", "Watupayung Kecil",
                         "Watupayung Selatan", "Watupayung Tengah", "Watupayung Utara", "Watuprau",
                         "Waturai", "Wayang", "Wedhiciut", "Wedhiombo", "Weru", "Wisanggeni"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 232,
+                        "unnamed": 55
+                    }
                 },
                 "sub": {
                     "regnc": [
@@ -464,9 +480,9 @@
                         {"name": "Madiun", "sub": {}},
                         {"name": "Surabaya", "sub": {}},
                         {"name": "Batu", "sub": {}}
-                    ]
-                },
-                "cap": 78
+                    ],
+                    "cap": 78
+                }
             },
             "36": {
                 "name": {
@@ -487,7 +503,11 @@
                         "Panjang", "Peucang", "Pinangkecing", "Pisang", "Plorida",
                         "Popole", "Salira", "Sangiang", "Semut", "Tanjunglayar", "Tarahan",
                         "Tempurung", "Tinjil", "Tunda", "Ular", "Umang", "Waton"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 48,
+                        "unnamed": 83
+                    }
                 },
                 "sub": {}
             }
@@ -702,9 +722,26 @@
                     "isle": [
                         "Bali", "Batulumbung", "Gili Biaha", "Gili Tepekong", "Nusa Besar",
                         "Nusa Ceningan/Tandrat", "Nusa Lembongan", "Nusa Penida", "Nusadua", "Serangan"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 25,
+                        "unnamed": 60
+                    }
                 },
-                "sub": {}
+                "sub": {
+                    "regnc": [
+                        {"name": "Jembrana", "sub": {}},
+                        {"name": "Tabanan", "sub": {}},
+                        {"name": "Badung", "sub": {}},
+                        {"name": "Gianyar", "sub": {}},
+                        {"name": "Klungkung", "sub": {}},
+                        {"name": "Bangli", "sub": {}},
+                        {"name": "Karangasem", "sub": {}},
+                        {"name": "Buleleng", "sub": {}}
+                    ],
+                    "ct": [{"name": "Denpasar", "sub": {}}],
+                    "cap": 71
+                }
             },
             "52": {
                 "name": {
@@ -716,9 +753,26 @@
                         "Burung", "Dangar-besar", "Dompo", "Ganteng", "Giri Banta", "Kelapa",
                         "Liong/Liang", "Lombok", "Medang", "Moyo/Mojo", "Ngali", "Panjang", "Pelandan",
                         "Rakit/Raki", "Sangeang", "Satonda", "Sumbawa", "Taikabo", "Tengar"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 461,
+                        "unnamed": 403
+                    }
                 },
-                "sub": {}
+                "sub": {
+                    "regnc": [
+                        {"name": "Lombok Barat", "sub": {}},
+                        {"name": "Lombok Tengah", "sub": {}},
+                        {"name": "Lombok Timur", "sub": {}},
+                        {"name": "Sumbawa", "sub": {}},
+                        {"name": "Dompu", "sub": {}},
+                        {"name": "Bima", "sub": {}},
+                        {"name": "Sumbawa Barat", "sub": {}},
+                        {"name": "Lombok Utara", "sub": {}}
+                    ],
+                    "ct": [{"name": "Mataram", "sub": {}}, {"name": "Bima", "sub": {}}],
+                    "cap": 71
+                }
             },
             "53": {
                 "name": {
@@ -731,9 +785,39 @@
                         "Flores", "Komodo", "Lomblen/Lombien/Lembata", "Mules", "Ndana",
                         "Pakse", "Palue", "Pamana", "Pamana Besar", "Pantar", "Petrus",
                         "Rinca", "Rote", "Sawu", "Semau", "Solor", "Sumba", "Timor"
-                    ]
+                    ],
+                    "sum": {
+                        "named": 473,
+                        "unnamed": 719
+                    }
                 },
-                "sub": {}
+                "sub": {
+                    "regnc": [
+                        {"name": "Kupang", "sub": {}},
+                        {"name": "Timor Tengah Selatan", "sub": {}},
+                        {"name": "Timor Tengah Utara", "sub": {}},
+                        {"name": "Belu", "sub": {}},
+                        {"name": "Alor", "sub": {}},
+                        {"name": "Flores Timur", "sub": {}},
+                        {"name": "Sikka", "sub": {}},
+                        {"name": "Ende", "sub": {}},
+                        {"name": "Ngada", "sub": {}},
+                        {"name": "Manggarai", "sub": {}},
+                        {"name": "Sumba Timur", "sub": {}},
+                        {"name": "Sumba Barat", "sub": {}},
+                        {"name": "Lembata", "sub": {}},
+                        {"name": "Rote Ndao", "sub": {}},
+                        {"name": "Manggarai Barat", "sub": {}},
+                        {"name": "Nagekeo", "sub": {}},
+                        {"name": "Sumba Tengah", "sub": {}},
+                        {"name": "Sumba Barat Daya", "sub": {}},
+                        {"name": "Manggarai Timur", "sub": {}},
+                        {"name": "Sabu Raijua", "sub": {}},
+                        {"name": "Malaka", "sub": {}}
+                    ],
+                    "ct": [{"name": "Kupang", "sub": {}}],
+                    "cap": 71
+                }
             }
         },
         "Sulawesi": {
@@ -868,9 +952,9 @@
                         {"name": "Maluku Barat Daya", "sub": {}},
                         {"name": "Buru Selatan", "sub": {}}
                     ],
-                    "ct": [{"name": "Ambon", "sub": {}}, {"name": "Tual", "sub": {}}]
-                },
-                "cap": 71
+                    "ct": [{"name": "Ambon", "sub": {}}, {"name": "Tual", "sub": {}}],
+                    "cap": 71
+                }
             },
             "82": {
                 "name": {
@@ -899,9 +983,9 @@
                         {"name": "Pulau Morotai", "sub": {}},
                         {"name": "Pulau Taliabu", "sub": {}}
                     ],
-                    "ct": [{"name": "Ternate", "sub": {}}, {"name": "Tidore Kepulauan", "sub": {}}]
-                },
-                "cap": 71
+                    "ct": [{"name": "Ternate", "sub": {}}, {"name": "Tidore Kepulauan", "sub": {}}],
+                    "cap": 71
+                }
             }
         },
         "Papua": {
@@ -948,9 +1032,9 @@
                         {"name": "Intan Jaya", "sub": {}},
                         {"name": "Deiyai", "sub": {}}
                     ],
-                    "ct": [{"name": "Jayapura", "sub": {}}]
-                },
-                "cap": 71
+                    "ct": [{"name": "Jayapura", "sub": {}}],
+                    "cap": 71
+                }
             },
             "92": {
                 "name": {
@@ -981,9 +1065,9 @@
                         {"name": "Manokwari Selatan", "sub": {}},
                         {"name": "Pegunungan Arfak", "sub": {}}
                     ],
-                    "ct": [{"name": "Sorong", "sub": {}}]
-                },
-                "cap": 2
+                    "ct": [{"name": "Sorong", "sub": {}}],
+                    "cap": 2
+                }
             }
         }
     }
